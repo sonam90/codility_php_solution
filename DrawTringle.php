@@ -1,9 +1,8 @@
 <?php
 
-
 class DrawTringle
 {
-    public function solution($number): string
+    public function solution($number)
     {
         $limit = 2 * $number - 1;
         $string = '';
