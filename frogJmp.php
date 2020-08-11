@@ -1,6 +1,6 @@
 <?php
 
-class FrogJmp
+class frogJmp
 {
     public function solution($X, $Y, $D)
     {

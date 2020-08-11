@@ -1,6 +1,6 @@
 <?php
 
-class DrawUpsideDown
+class drawUpsideDown
 {
     public function solution($number): string
     {

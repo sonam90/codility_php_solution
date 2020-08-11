@@ -1,6 +1,6 @@
 <?php
 
-class MaxCounters
+class maxCounters
 {
     public function solution($N, $A)
     {

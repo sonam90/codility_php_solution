@@ -1,6 +1,6 @@
 <?php
 
-class Fabonaci
+class fabonaci
 {
 
     public function solution($num)

@@ -1,6 +1,6 @@
 <?php
 
-class PermMissingElem
+class permMissingElem
 {
 
     public function solution($A)

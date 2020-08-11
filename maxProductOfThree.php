@@ -1,6 +1,6 @@
 <?php
 
-class MaxProductOfThree
+class maxProductOfThree
 {
     public function solution($A)
     {

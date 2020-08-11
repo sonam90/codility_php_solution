@@ -1,6 +1,6 @@
 <?php
 
-class CountDiv
+class countDiv
 {
     public function solution($A, $B, $K)
     {

@@ -1,6 +1,6 @@
 <?php
 
-class BinaryGap
+class binaryGap
 {
 
     public function solution($N)

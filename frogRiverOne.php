@@ -1,6 +1,6 @@
 <?php
 
-class FrogRiverOne
+class frogRiverOne
 {
     public function solution($X, $A)
     {

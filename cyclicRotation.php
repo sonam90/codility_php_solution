@@ -1,6 +1,6 @@
 <?php
 
-class CyclicRotation
+class cyclicRotation
 {
 
     public function solution($A, $K)

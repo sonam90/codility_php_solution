@@ -1,6 +1,6 @@
 <?php
 
-class OddOccurrencesInArray
+class oddOccurrencesInArray
 {
     public function solution($A)
     {

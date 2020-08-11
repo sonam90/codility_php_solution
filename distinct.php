@@ -1,6 +1,6 @@
 <?php
 
-class Distinct
+class distinct
 {
     public function solution($A)
     {

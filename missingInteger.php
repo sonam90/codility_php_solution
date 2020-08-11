@@ -1,6 +1,6 @@
 <?php
 
-class MissingInteger
+class missingInteger
 {
     public function solution($A)
     {

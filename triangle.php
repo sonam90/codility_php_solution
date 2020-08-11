@@ -1,6 +1,6 @@
 <?php
 
-class Triangle
+class triangle
 {
     public function solution($A)
     {

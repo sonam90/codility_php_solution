@@ -1,6 +1,6 @@
 <?php
 
-class DrawTringle
+class drawTringle
 {
     public function solution($number)
     {

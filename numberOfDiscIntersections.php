@@ -1,6 +1,6 @@
 <?php
 
-class NumberOfDiscIntersections
+class numberOfDiscIntersections
 {
     public function solution($A)
     {

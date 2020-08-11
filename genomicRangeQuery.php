@@ -1,6 +1,6 @@
 <?php
 
-class GenomicRangeQuery
+class genomicRangeQuery
 {
 
     public function solution($S, $P, $Q)

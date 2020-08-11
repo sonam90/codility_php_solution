@@ -1,6 +1,6 @@
 <?php
 
-class PermCheck
+class permCheck
 {
     public function solution($A)
     {

@@ -1,6 +1,6 @@
 <?php
 
-class PassingCars
+class passingCars
 {
     public function solution($A)
     {

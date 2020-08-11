@@ -1,6 +1,6 @@
 <?php
 
-class TapeEquilibrium
+class tapeEquilibrium
 {
 
     public function solution($A)
